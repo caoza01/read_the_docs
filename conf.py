@@ -3,8 +3,8 @@
 project = '像写代码一样写文档'
 copyright = '2026, caoza'
 author = 'caoza'
-release = '1.0.0'
-version = '1.0'
+release = '1.1.0'
+version = '1.1'
 
 extensions = [
     'sphinx.ext.autodoc',

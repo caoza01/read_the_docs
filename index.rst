@@ -8,3 +8,4 @@
    intro
    usage
    faq
+   layout
